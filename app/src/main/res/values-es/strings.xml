@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_activityLabel">Nueva actividad</string>
+    <string name="descriptionLabel">Descripción (opcional)</string>
+    <string name="activity_nameLabel">Nombre</string>
+    <string name="cancelButton">Cancelar</string>
+    <string name="doneButton">Hecho</string>
+    <string name="start_at">Inicio:</string>
+    <string name="end_at">Fin:</string>
+    <string name="select_time">Seleccionar hora</string>
+    <string name="start">Inicio</string>
+    <string name="end">Fin</string>
+    <string name="activity_name">Nombre</string>
+    <string name="activity_description">Descripción</string>
+
+    <string-array name = "themesValues" >
+        <item >Música</item>
+        <item >Deporte</item>
+        <item >Dormir</item>
+        <item >Cocina</item>
+        <item >Trabajo y estudio</item>
+        <item >Entretenimiento</item>
+        <item>Plantas y jardinería</item>
+        <item >Otros</item>
+    </string-array>
+
+    <string-array name = "dayValues" >
+        <item >Lunes</item>
+        <item >Martes</item>
+        <item >Miércoles</item>
+        <item >Jueves</item>
+        <item >Viernes</item>
+        <item >Sábado</item>
+        <item >Domingo</item>
+    </string-array>
+    <string name="theme">Tema:</string>
+    <string name="modifytext">Modificar actividad</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo</string>
+    <string name="log_in">Entrar</string>
+    <string name="not_registered_yet">Aún no estás registrado?</string>
+    <string name="signup">Registarse!</string>
+    <string name="community">Comunidad</string>
+    <string name="home">Inicio</string>
+    <string name="profile">Perfil</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="notNull">Este campo no puede estar vacío</string>
+    <string name="emailExists">Este correo ya está registrado</string>
+    <string name="userNotMatch">Usuario y contraseña no coinciden</string>
+    <string name="passwords">Las contraseñas no coinciden</string>
+    <string name="activityCreated">Actividad creada correctamente</string>
+    <string name="activityModified">Actividad modificada correctamente</string>
+    <string name="errorTime">Error: El tiempo de inicio ha de ser anterior al final</string>
+    <string name="errorDay">Error: El día de inicio ha de ser anterior al final</string>
+    <string name="overlapping">Error: Otra actividad ya está programada en este horario</string>
+    <string name="routineCreated">Rutina creada</string>
+    <string name="new_routine">Nueva rutina</string>
+    <string name="noRoutineSelected">No tienes ninguna rutina seleccionada</string>
+    <string name="adopt_new_habits">Adopta nuevos hábitos y marca la diferencia!</string>
+    <string name="noActivities">No tienes ninguna actividad programada para hoy.</string>
+    <string name="noRoutines">No tienes ninguna rutina, crea una nueva!</string>
+    <string name="shortPassword">La contraseña debe tener como mínimo 6 carácteres</string>
+    <string name="notAValidEmail">Introduce un correo válido</string>
+    <string name="change_profile_photo">Cambiar foto de perfil</string>
+    <string name="log_out">Salir</string>
+    <string name="change_password">Cambiar contraseña</string>
+    <string name="permissionDenied">Has denegado a Become acceder a tus fotos, actualiza los permisos en configuración para poder usar esta funcionalidad.</string>
+    <string name="permissionDeniedTitle">Permiso denegado</string>
+    <string name="existingRoutineName">Hay otra rutina con el mismo nombre</string>
+    <string name="wrongPassword">Contraseña incorrecta</string>
+    <string name="accountDeleted">Cuenta eliminada con éxito</string>
+    <string name="shortMonday">LU</string>
+    <string name="shortTuesday">MAR</string>
+    <string name="shortWednesday">MIE</string>
+    <string name="shortThursday">JUE</string>
+    <string name="shortFriday">VIE</string>
+    <string name="shortSaturday">SAB</string>
+    <string name="shortSunday">DOM</string>
+    <string name="deleteRoutine">Eliminar rutina</string>
+    <string name="deleteRoutineConfirmation">¿Estás seguro que quieres eliminar esta rutina y todas sus actividades?</string>
+    <string name="sport">DEPORTE</string>
+    <string name="sleeping">DORMIR</string>
+    <string name="cooking">COCINA</string>
+    <string name="hours_of_dedication">Horas de dedicación</string>
+    <string name="working">TRABAJO Y ESTUDIO</string>
+    <string name="music">MÚSICA</string>
+    <string name="entertainment">ENTRETENIMIENTO</string>
+    <string name="plants">PLANTAS Y JARDINERÍA</string>
+    <string name="other">OTROS</string>
+    <string name="routine_distribution">Distribución de la rutina</string>
+    <string name="emailSent">Se ha enviado un correo electrónico para restablecer la contraseña</string>
+    <string name="forgot_password">¿Has olvidado la contraseña?</string>
+    <string name="verifyEmail">Registrado correctamente. Comprueba tu correo electrónico y verificalo para usar la app.</string>
+    <string name="emailNotRegistered">El correo introducido no pertenece a ninguna cuenta.</string>
+    <string name="loginfailed">El correo o la contraseña no son correctos, asegúrate de haver confirmado el correo.</string>
+    <string name="streak">DÍAS!</string>
+    <string name="congratsStreak">Enhorabuena! Llevas una racha de</string>
+    <string name="backButton">Atrás</string>
+    <string name="reset_password">Restablecer contraseña</string>
+    <string name="currentPassword">Contraseña actual</string>
+    <string name="passChanged">La contraseña se ha cambiado correctamente.</string>
+    <string name="newPassword">Nueva contraseña</string>
+    <string name="change_username">Cambiar nombre</string>
+    <string name="username_changed">Nombre actualizado correctamente.</string>
+    <string name="congrats">¡Enhorabuena!</string>
+    <string name="new_trophy_won">Has ganado un trofeo</string>
+    <string name="deselectToRemove">Deselecciona esta rutina para eliminarla</string>
+    <string name="CreateFirstRoutine">Novato</string>
+    <string name="HourSleeping5">Vida de estudiante</string>
+    <string name="HourMusic5">Ha nacido una estrella</string>
+    <string name="HourCooking5">Tapeando</string>
+    <string name="HourSport5">Joven promesa</string>
+    <string name="HourWorking5">Perezoso</string>
+    <string name="HourEntertainment5">El Principito</string>
+    <string name="HourEntertainment10">El Señor de las Pelis</string>
+    <string name="HourPlants5">Asesino de cactus</string>
+    <string name="HourMusic10">Pequeño Mozart</string>
+    <string name="HourSport10">Mireia Belmonte</string>
+    <string name="HourCooking10">León come gamba</string>
+    <string name="HourWorking10">Esclavo del capitalismo</string>
+    <string name="HourPlants10">El Retiro en casa</string>
+    <string name="HourOther10">Divergente</string>
+    <string name="HourSleeping10">Duerme como un tronco</string>
+    <string name="CreateFirstRoutineDescription">Crea tu primera rutina</string>
+    <string name="HourCooking10Description">Dedica 10 horas a la semana para cocinar</string>
+    <string name="HourCooking5Description">Dedica 5 horas a lasemana a cocinar</string>
+    <string name="HourEntertainment10Description">Dedica 10 horas a la semana a actividades de entretenimiento</string>
+    <string name="HourEntertainment5Description">Dedica 5 horas a la semana a actividades de entretenimiento</string>
+    <string name="HourMusic10Description">Dedica 10 horas a la semana a actividades musicales.</string>
+    <string name="HourMusic5Description">Dedica 5 horas a la semana a actividades musicales</string>
+    <string name="HourOther10Description">Dedica 10 horas a la semana a otras actividades.</string>
+    <string name="HourOther5Description">Dedica 5 horas a la semana a otras actividades</string>
+    <string name="HourPlants10Description">Dedica 5 horas a la semana a tus plantas</string>
+    <string name="HourPlants5Description">Dedica 1 hora a la semana a tus plantas</string>
+    <string name="HourSleeping10Description">Dedica 56 horas a la semana a dormir</string>
+    <string name="HourSleeping5Description">Dedica 30 horas a la semana a dormir</string>
+    <string name="HourSport10Description">Dedica 10 horas a la semana al deporte</string>
+    <string name="HourSport5Description">Dedica 10 horas a la semana al deporte</string>
+    <string name="HourWorking10Description">Dedica 10 horas a la semana a trabajar</string>
+    <string name="HourWorking5Description">Dedica 5 horas a la semana a trabajar</string>
+    <string name="DONE">HECHO</string>
+    <string name="UNDONE">NO HECHO</string>
+    <string name="changeVisibility">Hacer privada una rutina</string>
+    <string name="changeVisibilityDescription">Cambiar la visibilidad de esta rutina a privada hará que deje de aparecer en la pestaña de la comunidad y borrará sus valoraciones, ¿quieres continuar?</string>
+    <string name="google">Continuar con Google</string>
+    <string name="voteRoutine">Vota</string>
+    <string name="routineAlreadyVoted">Ya has votado esta rutina</string>
+    <string name="voteOwnRoutine">No puedes votar tu propia rutina</string>
+    <string name="noRecommendations">No tienes recomandaciones</string>
+    <string name="downOk">Rutina descargada correctamente</string>
+    <string name="recommendationsOkTime">¡Lo estás haciendo genial!</string>
+    <string name="recommendationsLessTime">Recomendamos no dedicar más de</string>
+    <string name="recommendationMoreTime">Deberías dedicarle más tiempo, como mínimo</string>
+    <string name="recommendations">Recomendaciones</string>
+    <string name="ActivitiesPerDay1">Espabila!</string>
+    <string name="ActivitiesPerDay1Description">Tener almenos una actividad por día</string>
+    <string name="ActivitiesPerDay5">Multitarea</string>
+    <string name="ActivitiesPerDay5Description">Tener almenos 5 actividades por día</string>
+    <string name="HoursPerDay5">La cosa se pone seria</string>
+    <string name="HoursPerDay10">Cuanto más, mejor</string>
+    <string name="HoursPerDay5Description">Tener almenos 5 horas de actividades por día</string>
+    <string name="HoursPerDay10Description">Tener almenos 10 horas de actividades por día</string>
+    <string name="ShareRoutine">Comunista</string>
+    <string name="ShareRoutineDescription">Comparte tu rutina para que otros puedan usarla</string>
+    <string name="DownloadRoutine">Ladrón</string>
+    <string name="DownloadRoutineDescription">Descarga una rutina de la comunidad</string>
+    <string name="VoteRoutine">Juez</string>
+    <string name="VoteRoutineDescription">Valora una rutina de la comunidad</string>
+
+</resources>

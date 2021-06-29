@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_activityLabel">Nova activitat</string>
+    <string name="descriptionLabel">Descripció (opcional)</string>
+    <string name="activity_nameLabel">Nom</string>
+    <string name="cancelButton">Cancel·lar</string>
+    <string name="doneButton">Fet</string>
+    <string name="start_at">Inici:</string>
+    <string name="end_at">Fi:</string>
+    <string name="select_time">Seleccionar hora</string>
+    <string name="start">Inici</string>
+    <string name="end">Fi</string>
+    <string name="activity_name">Nom</string>
+    <string name="activity_description">Descripció</string>
+
+    <string-array name = "themesValues" >
+        <item >Música</item>
+        <item >Esport</item>
+        <item >Dormir</item>
+        <item >Cuina</item>
+        <item >Feina i estudi</item>
+        <item >Entreteniment</item>
+        <item>Plantes i jardineria</item>
+        <item >Altres</item>
+    </string-array>
+
+    <string-array name = "dayValues" >
+        <item >Dilluns</item>
+        <item >Dimarts</item>
+        <item >Dimecres</item>
+        <item >Dijous</item>
+        <item >Divendres</item>
+        <item >Dissabte</item>
+        <item >Diumenge</item>
+    </string-array>
+    <string name="theme">Tema:</string>
+    <string name="modifytext">Modificar activitat</string>
+    <string name="email">Correu</string>
+    <string name="password">Contrassenya</string>
+    <string name="log_in">Entrar</string>
+    <string name="not_registered_yet">Encara no estàs registrat?</string>
+    <string name="signup">Registrar-se!</string>
+    <string name="community">Comunitat</string>
+    <string name="home">Inici</string>
+    <string name="profile">Perfil</string>
+    <string name="sign_up">Registrar-se</string>
+    <string name="confirm_password">Repetir contrassenya</string>
+    <string name="username">Nom d\'usuari</string>
+    <string name="notNull">Aquest camp no pot estar buit</string>
+    <string name="emailExists">Aquest correu ja està registrat</string>
+    <string name="userNotMatch">Usuari i contrassenya no coincideixen</string>
+    <string name="passwords">Les contrassenyes no són iguals</string>
+    <string name="activityCreated">Activitat creada correctament</string>
+    <string name="activityModified">Activitat modificada correctament</string>
+    <string name="errorTime">Error: El temps d\'inici ha de ser inferior al temps final</string>
+    <string name="errorDay">Error: El dia d\'inici ha de ser anterior al final</string>
+    <string name="overlapping">Error: Una activitat ja està programada en aquest horari</string>
+    <string name="routineCreated">Rutina creada</string>
+    <string name="new_routine">Nova rutina</string>
+    <string name="noRoutineSelected">No tens cap rutina seleccionada</string>
+    <string name="adopt_new_habits">"Adopta nous hàbits i marca la diferència! "</string>
+    <string name="noActivities">No tens cap activitat programada avui.</string>
+    <string name="noRoutines">No tens cap rutina, crea\'n una de nova!</string>
+    <string name="shortPassword">La contrasenya ha de contenir com a mínim 6 caràcters</string>
+    <string name="notAValidEmail">Introdueix un correu vàlid</string>
+    <string name="change_profile_photo">Canviar foto de perfil</string>
+    <string name="log_out">Sortir</string>
+    <string name="change_password">Canviar contrasenya</string>
+    <string name="permissionDenied">Has denegat a Become poder accedir a les teves fotos, actualitza els permisos a configuració per poder usar aquesta funcionalitat.</string>
+    <string name="permissionDeniedTitle">Permís denegat</string>
+    <string name="existingRoutineName">Hi ha una altra rutina amb el mateix nom</string>
+    <string name="wrongPassword">Clau de pas incorrecta</string>
+    <string name="accountDeleted">Compte esborrat amb èxit</string>
+    <string name="shortMonday">DL</string>
+    <string name="shortTuesday">DM</string>
+    <string name="shortWednesday">DC</string>
+    <string name="shortThursday">DJ</string>
+    <string name="shortFriday">DV</string>
+    <string name="shortSaturday">DS</string>
+    <string name="shortSunday">DG</string>
+    <string name="deleteRoutine">Eliminar rutina</string>
+    <string name="deleteRoutineConfirmation">Estàs segur que vols eliminar la rutina i totes les seves activitats?</string>
+    <string name="sport">ESPORT</string>
+    <string name="sleeping">DORMIR</string>
+    <string name="cooking">CUINA</string>
+    <string name="hours_of_dedication">Hores de dedicació</string>
+    <string name="working">FEINA I ESTUDI</string>
+    <string name="music">MÚSICA</string>
+    <string name="entertainment">ENTRETENIMENT</string>
+    <string name="plants">PLANTES I JARDINERIA</string>
+    <string name="other">ALTRES</string>
+    <string name="routine_distribution">Distribució de la rutina</string>
+    <string name="emailSent">S\'ha enviat un correu electrònic per restablir la contrsenya</string>
+    <string name="forgot_password">Has oblidat la contrasenya?</string>
+    <string name="verifyEmail">Registrat amb èxit. Comprova el teu correu electrònic i verifica\'l per tal d\'usar l\'app.</string>
+    <string name="emailNotRegistered">El correu especificat no pertany a cap compte.</string>
+    <string name="loginfailed">El correu o la contrasenya no són correctes, assegura\'t d\'haver verificat el correu.</string>
+    <string name="congratsStreak">Enhorabona! Portes una ratxa de</string>
+    <string name="streak">DIES!</string>
+    <string name="backButton">Tornar</string>
+    <string name="reset_password">Restablir contrasenya</string>
+    <string name="currentPassword">Contrasenya actual</string>
+    <string name="newPassword">Nova contrasenya</string>
+    <string name="passChanged">La contrasenya s\'ha canviat correctament.</string>
+    <string name="change_username">Canviar nom</string>
+    <string name="username_changed">Nom canviat correctament.</string>
+    <string name="congrats">Enhorabona!</string>
+    <string name="new_trophy_won">Has guanyat un trofeu</string>
+    <string name="deselectToRemove">Deselecciona aquesta rutina per a eliminarla</string>
+    <string name="CreateFirstRoutine">Novell</string>
+    <string name="HourSleeping5">Vida d\'estudiant</string>
+    <string name="HourMusic5">Ha nascut una estrella</string>
+    <string name="HourCooking5">Fent el vermut</string>
+    <string name="HourSport10">Alexia Putellas</string>
+    <string name="HourSport5">La Masia</string>
+    <string name="HourWorking5">Mandròs</string>
+    <string name="HourEntertainment5">El Petit Príncep</string>
+    <string name="HourEntertainment10">El Senyor de les Pelis</string>
+    <string name="HourPlants5">Assassí de cactus</string>
+    <string name="HourMusic10">Petit Mozart</string>
+    <string name="HourCooking10">Calçotada</string>
+    <string name="HourWorking10">Esclau del capitalisme</string>
+    <string name="HourPlants10">El Montseny a casa</string>
+    <string name="HourOther10">Divergent</string>
+    <string name="HourSleeping10">Dorm com un tronc</string>
+    <string name="CreateFirstRoutineDescription">Crea la teva primera rutina</string>
+    <string name="HourCooking10Description">Dedica 10 hores a la setmana per cuinar</string>
+    <string name="HourCooking5Description">Dedica 5 hores a la setmana a cuinar</string>
+    <string name="HourEntertainment10Description">Dedica 10 hores a la setmana a activitats d\'entreteniment</string>
+    <string name="HourEntertainment5Description">Dedica 5 hores a la setmana a activitats d\'entreteniment</string>
+    <string name="HourMusic10Description">Dedica 10 hores a la setmana a activitats musicals</string>
+    <string name="HourMusic5Description">Dedica 5 hores a la setmana a activitats musicals</string>
+    <string name="HourOther10Description">Dedica 10 hores a la setmana a altres activitats</string>
+    <string name="HourOther5Description">Dedica 5 hores a la setmana a altres activitats</string>
+    <string name="HourPlants10Description">Dedica 5 hores a la setmana a les teves plantes</string>
+    <string name="HourPlants5Description">Dedica 1 hora a la setmana a les teves plantes</string>
+    <string name="HourSleeping10Description">Dedica 56 hores a la setmana a dormir</string>
+    <string name="HourSleeping5Description">Dedica 30 hores a la setmana a dormir</string>
+    <string name="HourSport10Description">Dedica 10 hores a la setmana a fer esport</string>
+    <string name="HourSport5Description">Dedica 10 hores a la setmana a fer esport</string>
+    <string name="HourWorking10Description">Dedica 10 hores a la setmana a treballar</string>
+    <string name="HourWorking5Description">Dedica 5 hores a la setmana a treballar</string>
+    <string name="DONE">FET</string>
+    <string name="UNDONE">NO FET</string>
+    <string name="changeVisibility">Fer privada una rutina</string>
+    <string name="changeVisibilityDescription">Si canvieu la visibilitat d\'aquesta rutina a privada, deixarà d\'aparèixer a la pestanya de la comunitat i esborrarà les seves valoracions, voleu continuar?</string>
+    <string name="google">Continuar amb Google</string>
+    <string name="voteRoutine">Vota</string>
+    <string name="routineAlreadyVoted">Ja has votat aquesta rutina</string>
+    <string name="voteOwnRoutine">No pots votar la teva pròpia rutina</string>
+    <string name="noRecommendations">No tens recomanacions</string>
+    <string name="downOk">Rutina descarregada correctament</string>
+    <string name="recommendationsOkTime">Ho estàs fent genial!</string>
+    <string name="recommendationsLessTime">Recomanem no dedicar més de</string>
+    <string name="recommendationMoreTime">Hauries de dedicar-li més temps, com a mínim</string>
+    <string name="recommendations">Recomanacions</string>
+    <string name="ActivitiesPerDay1">Espavila!</string>
+    <string name="ActivitiesPerDay1Description">Tenir almenys una activitat per dia</string>
+    <string name="ActivitiesPerDay5">Multitasca</string>
+    <string name="ActivitiesPerDay5Description">Tenir almenys 5 activitats per dia</string>
+    <string name="HoursPerDay5">La cosa es posa seria</string>
+    <string name="HoursPerDay10">Com més, millor</string>
+    <string name="HoursPerDay5Description">Tenir almenys 5 hores d\'activitats per dia</string>
+    <string name="HoursPerDay10Description">Tenir almenys 10 hores d\'activitats per dia</string>
+    <string name="ShareRoutine">Comunista</string>
+    <string name="ShareRoutineDescription">Comparteix la teva rutina per tal que altres puguin usarla</string>
+    <string name="DownloadRoutine">Lladre</string>
+    <string name="DownloadRoutineDescription">Descarrega una rutina de la comunitat</string>
+    <string name="VoteRoutine">Jutge</string>
+    <string name="VoteRoutineDescription">Valora una rutina de la comunitat</string>
+
+</resources>
